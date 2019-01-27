@@ -1,0 +1,4 @@
+TODO CREATE-the-Cordova-App
+TODO SETUP-Vue-App
+TODO SETUP-FrameWorkd7-Vue
+TODO SETUP-files-from-Cordova-Abhasi-Project
