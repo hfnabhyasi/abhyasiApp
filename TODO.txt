@@ -1,3 +1,9 @@
-TODO EXTRACT-web-app-from-cordova-app
-TODO SETUP-FrameWorkd7-Vue
-TODO SETUP-files-from-Cordova-Abhasi-Project
+
+CODROVA-APP TODOS
+  TODO SETUP-FrameWorkd7-Vue
+  TODO SETUP-files-from-Cordova-Abhasi-Project
+
+WEB-APP TODOS
+  TODO SETUP-bridge-to-move-build-to-Cordova-App-WWW-folder (WIP)
+  TODO Update README.md
+    TODO include the note/disclaimer - Cordova App and Web App need to be in the same folder
