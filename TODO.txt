@@ -1,7 +1,8 @@
 
 CODROVA-APP TODOS
-  TODO ADD-plugin-cordova-plugin-statusbar
   TODO REMOVE-platforms-folder-from-gitignore
+  TODO ADD-plugin-cordova-plugin-statusbar
+  TODO ADD-plugin-cordova-plugin-device
 
 WEB-APP TODOS
   TODO Update README.md
