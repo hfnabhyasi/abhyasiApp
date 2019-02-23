@@ -1,8 +1,7 @@
 
 CODROVA-APP TODOS
-  TODO REMOVE-platforms-folder-from-gitignore
-  TODO ADD-plugin-cordova-plugin-statusbar
   TODO ADD-plugin-cordova-plugin-device
+  TODO ADD-plugin-cordova-plugin-statusbar
 
 WEB-APP TODOS
   TODO CHANGE-HTML-syntax-to-Pug
