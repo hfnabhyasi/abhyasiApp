@@ -1,5 +1,7 @@
 
 CODROVA-APP TODOS
+  TODO ADD-an-npm-script-for-running-in-android
+  TODO ADD-browser-platform
   TODO SETUP-FrameWorkd7-Vue
   TODO SETUP-files-from-Cordova-Abhasi-Project
 
