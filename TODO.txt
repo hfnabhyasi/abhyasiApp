@@ -5,5 +5,4 @@ CODROVA-APP TODOS
   TODO ADD-plugin-cordova-plugin-device
 
 WEB-APP TODOS
-  TODO Update README.md
-    TODO include the note/disclaimer - Cordova App and Web App need to be in the same folder
+  TODO CHANGE-HTML-syntax-to-Pug
