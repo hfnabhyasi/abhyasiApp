@@ -9,7 +9,17 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "abhyasiApp"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "abhyasiApp"
     }
   },
-  "dependent_plugins": {}
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "abhyasiApp"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "abhyasiApp"
+    }
+  }
 }
