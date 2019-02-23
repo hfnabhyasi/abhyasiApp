@@ -1,4 +1,3 @@
-
 CODROVA-APP TODOS
   TODO ADD-plugin-cordova-plugin-device
   TODO ADD-plugin-cordova-plugin-statusbar
