@@ -15,6 +15,9 @@
     },
     "cordova-plugin-device": {
       "PACKAGE_NAME": "abhyasiApp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "abhyasiApp"
     }
   },
   "dependent_plugins": {
